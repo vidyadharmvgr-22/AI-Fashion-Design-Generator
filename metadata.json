@@ -1,0 +1,6 @@
+{
+  "name": "AI Fashion Design Assistant",
+  "description": "An AI-powered design environment for beginners and students to draft fashion concepts, explore style variations, analyze color palettes, and get affordable similar outfit suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
